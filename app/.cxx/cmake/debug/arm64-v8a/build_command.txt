@@ -1,0 +1,14 @@
+Executable : /home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni
+-B/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/home/dell/Android/Sdk/ndk/21.3.6528147
+-DCMAKE_TOOLCHAIN_FILE=/home/dell/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/dell/Android/Sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

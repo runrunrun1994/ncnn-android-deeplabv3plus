@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/release/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "deeplabv3plusncnn-Release-armeabi-v7a": {
+      "artifactName": "deeplabv3plusncnn",
+      "buildCommand": "/home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/release/armeabi-v7a --target deeplabv3plusncnn",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/build/intermediates/cmake/release/obj/armeabi-v7a/libdeeplabv3plusncnn.so"
+    },
+    "glslang-Release-armeabi-v7a": {
+      "artifactName": "glslang",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libglslang.a"
+    },
+    "SPIRV-Release-armeabi-v7a": {
+      "artifactName": "SPIRV",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libSPIRV.a"
+    },
+    "OSDependent-Release-armeabi-v7a": {
+      "artifactName": "OSDependent",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libOSDependent.a"
+    },
+    "ncnn-Release-armeabi-v7a": {
+      "artifactName": "ncnn",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libncnn.a"
+    },
+    "OGLCompiler-Release-armeabi-v7a": {
+      "artifactName": "OGLCompiler",
+      "abi": "armeabi-v7a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libOGLCompiler.a"
+    }
+  }
+}

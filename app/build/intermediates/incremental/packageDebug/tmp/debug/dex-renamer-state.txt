@@ -1,0 +1,4 @@
+#Mon Dec 28 00:18:43 CST 2020
+base.0=/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "SPIRV-Debug-arm64-v8a": {
+      "artifactName": "SPIRV",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libSPIRV.a"
+    },
+    "glslang-Debug-arm64-v8a": {
+      "artifactName": "glslang",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libglslang.a"
+    },
+    "OSDependent-Debug-arm64-v8a": {
+      "artifactName": "OSDependent",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libOSDependent.a"
+    },
+    "OGLCompiler-Debug-arm64-v8a": {
+      "artifactName": "OGLCompiler",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libOGLCompiler.a"
+    },
+    "ncnn-Debug-arm64-v8a": {
+      "artifactName": "ncnn",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libncnn.a"
+    },
+    "deeplabv3plusncnn-Debug-arm64-v8a": {
+      "artifactName": "deeplabv3plusncnn",
+      "buildCommand": "/home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a --target deeplabv3plusncnn",
+      "abi": "arm64-v8a",
+      "output": "/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/build/intermediates/cmake/debug/obj/arm64-v8a/libdeeplabv3plusncnn.so"
+    }
+  }
+}
