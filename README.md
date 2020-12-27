@@ -1,6 +1,8 @@
-# ncnn-android-yolov5
+# ncnn-android-deeplabv3plus
 
-The YOLOv5 object detection
+The CODE fork form [https://github.com/nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5)
+
+The Deeplabv3+ object Person Segmentation
 
 this is a sample ncnn android project, it depends on ncnn library only
 
