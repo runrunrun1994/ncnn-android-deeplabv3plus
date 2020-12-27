@@ -1,3 +1,0 @@
-/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/deeplabv3plusncnn.dir

@@ -1,8 +1,0 @@
-Executable : /home/dell/Android/Sdk/cmake/3.6.4111459/bin/cmake
-arguments : 
---build
-/home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/arm64-v8a
---target
-deeplabv3plusncnn
-jvmArgs : 
-

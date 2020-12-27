@@ -1,3 +1,0 @@
--- Configuring done
--- Generating done
--- Build files have been written to: /home/dell/workspace/CODE/android/ncnn-android-deeplabv3plus/ncnn-android-deeplabv3plus/app/.cxx/cmake/debug/armeabi-v7a
