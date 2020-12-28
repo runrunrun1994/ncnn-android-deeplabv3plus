@@ -28,5 +28,5 @@ open this project with Android Studio, build it and enjoy!
 
 |Original|Result|
 |---|---|
-|!(org1)[https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.jpg] |!(res1)[https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.png]|
+|![org1](https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.jpg) |![res1](https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.png)|
 
