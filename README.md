@@ -20,6 +20,13 @@ extract ncnn-android-vulkan-lib.zip into app/src/main/jni or change the ncnn pat
 ### step3
 open this project with Android Studio, build it and enjoy!
 
-## screenshot
-![](screenshot.jpg)
+## Result
+|Model|CPU|GPU|
+|---|---|---|
+|deeplabv3+|**434.59**ms|**454.16**ms|
+
+
+|Original|Result|
+|---|---|
+|!(org1)[https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.jpg] |!(res1)[https://github.com/runrunrun1994/Image/blob/main/PersonSegmeantation/Android/pexels-photo-824109.png]|
 
